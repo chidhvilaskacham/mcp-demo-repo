@@ -1,5 +1,5 @@
 
-💡 **Breaking down MCP (Model Context Protocol) - the emerging standard that's reshaping how AI agents interact with external services**
+##💡 **Breaking down MCP (Model Context Protocol) - the emerging standard that's reshaping how AI agents interact with external services**
 
 **What exactly is MCP?**
 Model Context Protocol is a standardized communication framework that allows AI models to securely and efficiently connect with external data sources, APIs, and tools while maintaining persistent context throughout interactions.
