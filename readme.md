@@ -1,4 +1,6 @@
+
 MCP Architecture Flow
+```sh
 
 ┌─────────────────┐    MCP Protocol    ┌─────────────────┐
 │   MCP CLIENT    │◄──────────────────►│   MCP SERVER    │
@@ -35,7 +37,7 @@ Example: GitHub Repo Creation
 │ (MCP Client) │    Repo created +       │              │
 │              │    metadata returned    │              │
 └──────────────┘                         └──────────────┘
-
+```
 
 💡 **Breaking down MCP (Model Context Protocol) - the emerging standard that's reshaping how AI agents interact with external services**
 
